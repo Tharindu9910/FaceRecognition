@@ -4,7 +4,9 @@
 
 Attendance is a crucial part of classroom evaluation. Traditional methods, such as manual roll calls, are prone to errors—teachers may miss students, or students may mark attendance multiple times.  
 
-The **Face Recognition Based Attendance System** automates attendance tracking using **computer vision** to identify students based on their facial features. This ensures **accurate, reliable, and efficient** attendance management in educational institutions. The project is part of the broader field of Human-Computer Interaction (HCI), which focuses on enhancing the interaction between humans and computer systems.
+The **Face Recognition Based Attendance System** automates attendance tracking using **computer vision** to identify students based on their facial features. This ensures **accurate, reliable, and efficient** attendance management in educational institutions. 
+The project is part of the broader field of **Human-Computer Interaction (HCI)**, which focuses on enhancing the interaction between humans and computer systems.
+
 ---
 
 ## Features
