@@ -11,11 +11,11 @@ The project is part of the broader field of **Human-Computer Interaction (HCI)**
 
 ## Features
 
-- ✅ Automatic recognition of students using facial features  
-- ✅ Secure and authentic attendance record keeping  
-- ✅ Course-specific attendance logging  
-- ✅ Real-time attendance updates  
-- ✅ Scalable for large classrooms  
+-  Automatic recognition of students using facial features  
+-  Secure and authentic attendance record keeping  
+-  Course-specific attendance logging  
+-  Real-time attendance updates  
+-  Scalable for large classrooms  
 
 ---
 
